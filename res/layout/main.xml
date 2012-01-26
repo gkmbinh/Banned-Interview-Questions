@@ -62,9 +62,9 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="bottom"
                             ads:adSize="BANNER"
-                            ads:adUnitId="a14eefa45d0c7a1"
+                            ads:adUnitId="YOUR_ADD_UUNIT"
                             ads:loadAdOnCreate="true"
-                            ads:testDevices="TEST_EMULATOR, 40BB7375BF01DF3F3C9DE8D5504722B9" />
+                            ads:testDevices="TEST_EMULATOR" />
                     </FrameLayout>
                 </LinearLayout>
 
@@ -104,9 +104,9 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="bottom"
                             ads:adSize="BANNER"
-                            ads:adUnitId="a14eefa45d0c7a1"
+                            ads:adUnitId="YOUR_ADD_UNIT"
                             ads:loadAdOnCreate="true"
-                            ads:testDevices="TEST_EMULATOR, 40BB7375BF01DF3F3C9DE8D5504722B9" />
+                            ads:testDevices="TEST_EMULATOR" />
                     </FrameLayout>
                 </LinearLayout>
             </FrameLayout>
